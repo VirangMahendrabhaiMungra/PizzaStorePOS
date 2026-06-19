@@ -1,0 +1,10 @@
+[
+
+  { "order_id": "1", "date": "2026-06-18 21:31:46", "total_revenue": 72.50 },
+  { "order_id": "3", "date": "2026-06-18 22:00:30", "total_revenue": 53.50 },
+  { "order_id": "11", "date": "2026-06-18 22:02:32", "total_revenue": 17.50 },
+  { "order_id": "12", "date": "2026-06-18 22:02:57", "total_revenue": 135.00 },
+  { "order_id": "13", "date": "2026-06-18 22:03:07", "total_revenue": 17.50 },
+  { "order_id": "1", "date": "2026-06-18 22:05:28", "total_revenue": 33.00 },
+
+]

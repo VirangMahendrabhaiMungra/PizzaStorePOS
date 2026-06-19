@@ -1,0 +1,7 @@
+OrderID,Date,Total,Details
+1,2026-06-18 21:31:46,72.50,Order #1 - Status: Preparing |  - Margherita Pizza: $11.00 |  - Meat Lovers Pizza: $20.50 |  - Veggie Supreme Pizza: $17.50 |  - Hawaiian Pizza: $15.50 |  - Custom Pizza: $8.00 | Total: $72.50
+3,2026-06-18 22:00:30,53.50,Order #3 - Status: Preparing |  - Meat Lovers Pizza: $20.50 |  - Veggie Supreme Pizza: $17.50 |  - Hawaiian Pizza: $15.50 | Total: $53.50
+11,2026-06-18 22:02:32,17.50,Order #11 - Status: Preparing |  - Veggie Supreme Pizza: $17.50 | Total: $17.50
+12,2026-06-18 22:02:57,135.00,Order #12 - Status: Preparing |  - Margherita Pizza: $11.00 |  - Hawaiian Pizza: $15.50 |  - Meat Lovers Pizza: $20.50 |  - Meat Lovers Pizza: $20.50 |  - Meat Lovers Pizza: $20.50 |  - Meat Lovers Pizza: $20.50 |  - Hawaiian Pizza: $15.50 |  - Margherita Pizza: $11.00 | Total: $135.00
+13,2026-06-18 22:03:07,17.50,Order #13 - Status: Preparing |  - Veggie Supreme Pizza: $17.50 | Total: $17.50
+1,2026-06-18 22:05:28,33.00,Order #1 - Status: Preparing |  - Veggie Supreme Pizza: $17.50 |  - Hawaiian Pizza: $15.50 | Total: $33.00
